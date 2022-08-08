@@ -1,5 +1,5 @@
-++ # DS-using-cpp
- ++data structures using cpp
+ # DS-using-cpp :D
+
 <h1 align="center">Hi 👋, I'm Aatish Sharma</h1>
 <h3 align="center">I like solving problems and making things.</h3>
 
