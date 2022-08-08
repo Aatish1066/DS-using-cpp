@@ -1,6 +1,6 @@
-#include <iostream.h>
-using Namespace std;
+#include <iostream>
 int main(){
-  cout<<"hello world";
-  return 0;
+  // insert  the code
+  std:: cout<<"hello world";
+    return 0;
 }
