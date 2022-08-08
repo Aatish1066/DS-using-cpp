@@ -5,7 +5,6 @@ data structures using cpp
 
 - 📫 How to reach me **aatisharma715@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
